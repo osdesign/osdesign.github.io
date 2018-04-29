@@ -1,0 +1,414 @@
+{
+  "wallets": [
+    {
+      "name": "ION",
+      "balance": 22.098,
+      "convertingRate": 1.3,
+      "transactionsHistory": [
+        {
+          "received": false,
+          "transactionName": "Sent ION",
+          "date": "04/04/2001",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded ION Masternode",
+          "date": "04/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received ION",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded ION Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received ION",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Sent ION",
+          "date": "12/04/2006",
+          "balanceDiff": -12.35900487
+        }
+      ]        
+    },
+    {
+      "name": "BTC",
+      "balance": 1.58338480,
+      "convertingRate": 10,
+      "transactionsHistory": [
+        {
+          "received": false,
+          "transactionName": "Sent BTC",
+          "date": "04/04/2001",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded BTC Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received BTC",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Sent BTC",
+          "date": "12/04/2006",
+          "balanceDiff": -12.35900487
+        }
+      ] 
+    },
+    {
+      "name": "LTC",
+      "balance": 21.547,
+      "convertingRate": 5.5,
+      "transactionsHistory": [
+        {
+          "received": false,
+          "transactionName": "Sent LTC",
+          "date": "04/04/2001",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded LTC Masternode",
+          "date": "04/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received LTC",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded LTC Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received LTC",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Sent LTC",
+          "date": "12/04/2006",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": true,
+          "transactionName": "Received LTC",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded LTC Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received LTC",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        }
+      ] 
+    },
+    {
+      "name": "DASH",
+      "balance": 1.0054,
+      "convertingRate": 1.2254,
+      "transactionsHistory": [
+        {
+          "received": false,
+          "transactionName": "Sent DASH",
+          "date": "04/04/2001",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded DASH Masternode",
+          "date": "04/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received DASH",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded DASH Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received DASH",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded DASH Masternode",
+          "date": "04/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received DASH",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded DASH Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received DASH",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Sent DASH",
+          "date": "12/04/2006",
+          "balanceDiff": -12.35900487
+        }
+      ] 
+    },
+    {
+      "name": "ETH",
+      "balance": 13.998745,
+      "convertingRate": 18,
+      "transactionsHistory": [
+        {
+          "received": false,
+          "transactionName": "Sent ETH",
+          "date": "04/04/2001",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Sent ETH",
+          "date": "12/04/2006",
+          "balanceDiff": -12.35900487
+        }
+      ] 
+    },
+    {
+      "name": "PIVX",
+      "balance": 1.0014274,
+      "convertingRate": 0.76518,
+      "transactionsHistory": [
+        {
+          "received": false,
+          "transactionName": "Sent PIVX",
+          "date": "04/04/2001",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded PIVX Masternode",
+          "date": "04/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received PIVX",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded PIVX Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received PIVX",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": true,
+          "transactionName": "Received PIVX",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded PIVX Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received PIVX",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": true,
+          "transactionName": "Received PIVX",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded PIVX Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received PIVX",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": true,
+          "transactionName": "Received PIVX",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded PIVX Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received PIVX",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Sent PIVX",
+          "date": "12/04/2006",
+          "balanceDiff": -12.35900487
+        }
+      ] 
+    },
+    {
+      "name": "NEO",
+      "balance": 0.000145,
+      "convertingRate": 0.41258,
+      "transactionsHistory": [
+        {
+          "received": false,
+          "transactionName": "Sent NEO",
+          "date": "04/04/2001",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded NEO Masternode",
+          "date": "04/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received NEO",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": true,
+          "transactionName": "Received NEO",
+          "date": "07/12/2016",
+          "balanceDiff": 10.12
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded NEO Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received NEO",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": true,
+          "transactionName": "Received NEO",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": true,
+          "transactionName": "Received NEO",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Sent NEO",
+          "date": "12/04/2006",
+          "balanceDiff": -12.35900487
+        }
+      ] 
+    },
+    {
+      "name": "XDM",
+      "balance": 0.0887452,
+      "convertingRate": 0.23478,
+      "transactionsHistory": [
+        {
+          "received": false,
+          "transactionName": "Sent XDM",
+          "date": "04/04/2001",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Loaded XDM Masternode",
+          "date": "05/30/2007",
+          "balanceDiff": -20.387
+        },
+        {
+          "received": true,
+          "transactionName": "Received XDM",
+          "date": "02/07/2009",
+          "balanceDiff": -12.35900487
+        },
+        {
+          "received": false,
+          "transactionName": "Sent XDM",
+          "date": "12/04/2006",
+          "balanceDiff": -12.35900487
+        }
+      ] 
+    }
+  ] 
+}
